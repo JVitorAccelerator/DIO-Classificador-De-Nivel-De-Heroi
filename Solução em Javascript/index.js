@@ -21,7 +21,7 @@ async function main() {
 
     if (continuar === '0') {
       break;
-    } else {
+    } else if(continuar==='1') {
       let nome = await askQuestion("Digite o nome do herói: ");
       let XP = await askQuestion("Digite a XP do herói: ");
 
