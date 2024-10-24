@@ -25,15 +25,18 @@ Ao final deve se exibir uma mensagem:
 1. Clone o repositório para a sua máquina:
 
 ```bash
-git clone [https](https://github.com/JVitorAccelerator/DIO-Classificador-De-Nivel-De-Heroi.git)´´´´
+git clone [https](https://github.com/JVitorAccelerator/DIO-Classificador-De-Nivel-De-Heroi.git)
+```
 
 
 2. Navegue até a pasta desejada
 
 ```bash
-cd "nome da pasta com espaços"´´´´
+cd "nome da pasta com espaços"
+```
 
 3. Execute o arquivo
 
 ```bash
-node index.js´´´´
+node index.js
+```
