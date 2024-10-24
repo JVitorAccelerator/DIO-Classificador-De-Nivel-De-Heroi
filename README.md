@@ -32,7 +32,7 @@ git clone [https](https://github.com/JVitorAccelerator/DIO-Classificador-De-Nive
 2. Navegue até a pasta desejada
 
 ```bash
-cd "nome da pasta com espaços"
+cd "Solução-em-Javascript"
 ```
 
 3. Execute o arquivo
